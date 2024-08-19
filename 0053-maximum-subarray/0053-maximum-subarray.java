@@ -1,8 +1,8 @@
 class Solution {
     public int maxSubArray(int[] nums) {
         int sum = 0;
-        int b = Integer.MIN_VALUE;
-
+        int b =-(int)Math.pow(10,5)+1;
+//int b=0;
         for (int i = 0; i < nums.length; i++) {
 
             sum = sum + nums[i];
