@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
