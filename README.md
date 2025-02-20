@@ -5,16 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Hash Table
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
 |  |
@@ -28,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
+## Array
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
