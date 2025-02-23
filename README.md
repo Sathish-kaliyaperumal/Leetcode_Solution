@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 ## Math
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -51,5 +54,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
