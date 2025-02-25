@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Math
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2556-convert-the-temperature](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2556-convert-the-temperature) |
 ## Tree
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
