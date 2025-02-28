@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
