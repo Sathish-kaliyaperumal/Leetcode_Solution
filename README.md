@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
+| [3778-transform-array-by-parity](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3778-transform-array-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3778-transform-array-by-parity](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
