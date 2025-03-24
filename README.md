@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2556-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
