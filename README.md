@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1115-valid-boomerang](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1115-valid-boomerang) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1115-valid-boomerang](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1115-valid-boomerang) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2288-count-operations-to-obtain-zero) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3778-transform-array-by-parity) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
