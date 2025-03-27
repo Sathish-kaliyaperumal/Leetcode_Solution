@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0507-perfect-number](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0507-perfect-number) |
 | [1115-valid-boomerang](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1115-valid-boomerang) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
