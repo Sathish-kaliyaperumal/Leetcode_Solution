@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
