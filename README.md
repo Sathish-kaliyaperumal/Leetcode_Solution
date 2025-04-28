@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0507-perfect-number) |
 | [1115-valid-boomerang](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1115-valid-boomerang) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
