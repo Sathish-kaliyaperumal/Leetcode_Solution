@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2556-convert-the-temperature) |
+| [2630-alternating-digit-sum](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
