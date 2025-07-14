@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sathish-kaliyaperumal/Leetcode_Solution/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
